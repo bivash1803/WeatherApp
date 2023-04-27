@@ -25,3 +25,5 @@ npm run eject
 
 This is normal weather application where you may get random temperature of every places.
 Justv type the name of the places the app will show the current temperature and this project fully I make using react also i have deploy the project in AWS amplify and send to my git repository.
+
+Deploy in AWS Amplify server link: https://main.d5xm57sqbrora.amplifyapp.com/
